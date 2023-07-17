@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 15a5d3faaa9e14b4f962125a5fbfbc90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1834527937529787531
+    second: elemental_agua_parado_animado_0
+  - first:
+      213: 6204362403219571087
+    second: elemental_agua_parado_animado_1
+  - first:
+      213: 5867220588098378645
+    second: elemental_agua_parado_animado_2
+  - first:
+      213: 224852133448991780
+    second: elemental_agua_parado_animado_3
+  - first:
+      213: -1365894785511543408
+    second: elemental_agua_parado_animado_4
+  - first:
+      213: -6090763008102477191
+    second: elemental_agua_parado_animado_5
+  - first:
+      213: -3562005147960236904
+    second: elemental_agua_parado_animado_6
+  - first:
+      213: 8516843177028170658
+    second: elemental_agua_parado_animado_7
+  - first:
+      213: -7128616706738915394
+    second: elemental_agua_parado_animado_8
+  - first:
+      213: 5788358238857264017
+    second: elemental_agua_parado_animado_9
+  - first:
+      213: 4358446786497428129
+    second: elemental_agua_parado_animado_10
+  - first:
+      213: 2788441206273655990
+    second: elemental_agua_parado_animado_11
+  - first:
+      213: 585920492541195215
+    second: elemental_agua_parado_animado_12
+  - first:
+      213: -4067051200783340992
+    second: elemental_agua_parado_animado_13
+  - first:
+      213: -2920957612406570967
+    second: elemental_agua_parado_animado_14
+  - first:
+      213: -8050970024000462593
+    second: elemental_agua_parado_animado_15
+  - first:
+      213: 5275156525845428058
+    second: elemental_agua_parado_animado_16
+  - first:
+      213: -8380157437536714857
+    second: elemental_agua_parado_animado_17
+  - first:
+      213: -4867232808844792121
+    second: elemental_agua_parado_animado_18
+  - first:
+      213: 3197067916312713054
+    second: elemental_agua_parado_animado_19
+  - first:
+      213: -7628808728213389785
+    second: elemental_agua_parado_animado_20
+  - first:
+      213: 7140135927861284839
+    second: elemental_agua_parado_animado_21
+  - first:
+      213: -2271356460901050870
+    second: elemental_agua_parado_animado_22
+  - first:
+      213: -7562267504889550789
+    second: elemental_agua_parado_animado_23
+  - first:
+      213: 7627529673606866775
+    second: elemental_agua_parado_animado_24
+  - first:
+      213: 5919411076601143256
+    second: elemental_agua_parado_animado_25
+  - first:
+      213: -8118279480576352797
+    second: elemental_agua_parado_animado_26
+  - first:
+      213: 9139502457582001734
+    second: elemental_agua_parado_animado_27
+  - first:
+      213: -364290603728956015
+    second: elemental_agua_parado_animado_28
+  - first:
+      213: -3354441788309474615
+    second: elemental_agua_parado_animado_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc1018f827a86e0800000000000000
+      internalID: -1834527937529787531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8101bdcbb25a1650800000000000000
+      internalID: 6204362403219571087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b567cf90e8c6150800000000000000
+      internalID: 5867220588098378645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244735f2d5de1300800000000000000
+      internalID: 224852133448991780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da60deded5b0de0800000000000000
+      internalID: -1365894785511543408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97256fa7053497ba0800000000000000
+      internalID: -6090763008102477191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a7b3b037319ec0800000000000000
+      internalID: -3562005147960236904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3397eceb7e13670800000000000000
+      internalID: 8516843177028170658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb779eecfd0121d90800000000000000
+      internalID: -7128616706738915394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bfac37621645050800000000000000
+      internalID: 5788358238857264017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3f91a2405c7c30800000000000000
+      internalID: 4358446786497428129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4c009d08882b620800000000000000
+      internalID: 2788441206273655990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33a88659b912800800000000000000
+      internalID: 585920492541195215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aabf52b7eee87c0800000000000000
+      internalID: -4067051200783340992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208884078ca677d0800000000000000
+      internalID: -2920957612406570967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff062264b65354090800000000000000
+      internalID: -8050970024000462593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b99949ee153940800000000000000
+      internalID: 5275156525845428058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb6c5e533b3bb80800000000000000
+      internalID: -8380157437536714857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceedad4c8d147cb0800000000000000
+      internalID: -4867232808844792121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571e92c4544e5c20800000000000000
+      internalID: 3197067916312713054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef07f71e6012690800000000000000
+      internalID: -7628808728213389785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0d2cdbcbd61360800000000000000
+      internalID: 7140135927861284839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0654bd35558a70e0800000000000000
+      internalID: -2271356460901050870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38249a55cd6d0790800000000000000
+      internalID: -7562267504889550789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a61563dd6ad960800000000000000
+      internalID: 7627529673606866775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd2540309f52250800000000000000
+      internalID: 5919411076601143256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed57ec23d3165f80800000000000000
+      internalID: -8118279480576352797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1cffdf0906de70800000000000000
+      internalID: 9139502457582001734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19519b140a7c1faf0800000000000000
+      internalID: -364290603728956015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_parado_animado_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2761457f0a271d0800000000000000
+      internalID: -3354441788309474615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6139524669142724056
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 82124836107857961, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_Name
+      value: BOSSNATURE
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82124836107857963, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: face
+      value: 
+      objectReference: {fileID: 21300000, guid: af46777f12676884fa4a77c191954cc2, type: 3}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: forte
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: normal
+      value: 678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: fraqueza
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: lifeSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9344a7f7fb87e3e479cc25ceafd03e02, type: 3}
+    - target: {fileID: 4170620795449770956, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: bosses.Array.data[2]
+      value: 
+      objectReference: {fileID: 6057408783813828081}
+    - target: {fileID: 6019250532411903473, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 7d236ce20081458418b7ebc66a8ed6d5, type: 2}
+    - target: {fileID: 8418658889475082587, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: face
+      value: 
+      objectReference: {fileID: 21300000, guid: af46777f12676884fa4a77c191954cc2, type: 3}
+    - target: {fileID: 8418658889475082587, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+      propertyPath: lifeSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9344a7f7fb87e3e479cc25ceafd03e02, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+--- !u!1 &6057408783813828081 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 82124836107857961, guid: 48918e54e38ad5d4b8c9f0c2e22aa22f, type: 3}
+  m_PrefabInstance: {fileID: 6139524669142724056}
+  m_PrefabAsset: {fileID: 0}

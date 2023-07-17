@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!95 &-670983491776835170
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2835786277912180915}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cfbaab52fae5d4b40ab53b1063bcf7fe, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-6659343916814863902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2835786277912180915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 454f9b6ed18d15341bfef7ca46f7bfb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  obj: {fileID: 0}
+--- !u!1001 &622912045278448695
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3458689386936513668, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_Name
+      value: Frasco
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513669, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 42b79f0bd8aa9984d98dcb8ea3275512, type: 3}
+    - target: {fileID: 3458689386936513669, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513669, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513670, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: type
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: fBreak
+      value: 
+      objectReference: {fileID: -6659343916814863902}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: frascoHit
+      value: 
+      objectReference: {fileID: 6281712705798963845, guid: cd1f5f7a0c051294aaa87db086fe849a, type: 3}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: soundName
+      value: FrascoBreaking
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: frascoBasic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458689386936513786, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+      propertyPath: soundVariation
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+--- !u!1 &2835786277912180915 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3458689386936513668, guid: 57676e07c8c763348b979b3f8b36c97c, type: 3}
+  m_PrefabInstance: {fileID: 622912045278448695}
+  m_PrefabAsset: {fileID: 0}

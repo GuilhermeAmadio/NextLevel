@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: EnemyAgua
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: idle
+    m_Hash: -601574123
+    m_CategoryList:
+    - m_Name: idle1
+      m_Hash: -287494167
+      m_Sprite: {fileID: -1494156990899361642, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle2
+      m_Hash: 2010414675
+      m_Sprite: {fileID: -1072946702727316171, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle3
+      m_Hash: 13848261
+      m_Sprite: {fileID: -5791541903096876528, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle4
+      m_Hash: -1632117914
+      m_Sprite: {fileID: -7008746626632197376, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle5
+      m_Hash: -374281232
+      m_Sprite: {fileID: -618396423760835382, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle6
+      m_Hash: 1891220042
+      m_Sprite: {fileID: -7608425535209179914, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle7
+      m_Hash: 129927900
+      m_Sprite: {fileID: -81542304773666668, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: idle8
+      m_Hash: -1761503411
+      m_Sprite: {fileID: 9075633132741730342, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+  - m_Name: attack
+    m_Hash: 1203776827
+    m_CategoryList:
+    - m_Name: attack1
+      m_Hash: 848348862
+      m_Sprite: {fileID: -1494156990899361642, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack2
+      m_Hash: -1415997692
+      m_Sprite: {fileID: -1072946702727316171, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack3
+      m_Hash: -593582190
+      m_Sprite: {fileID: -5791541903096876528, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack4
+      m_Hash: 1123693105
+      m_Sprite: {fileID: -7008746626632197376, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack5
+      m_Hash: 905773735
+      m_Sprite: {fileID: -618396423760835382, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack6
+      m_Hash: -1393274083
+      m_Sprite: {fileID: -7608425535209179914, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack7
+      m_Hash: -604806261
+      m_Sprite: {fileID: -81542304773666668, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}
+    - m_Name: attack8
+      m_Hash: 1263304218
+      m_Sprite: {fileID: 9075633132741730342, guid: ef311cd6007ef2040a3cb5acefca0496, type: 3}

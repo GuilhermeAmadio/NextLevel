@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 210f7f37161c76e4cb814f68f3ededca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3758945328831945072
+    second: elemental_natureza_morte_0
+  - first:
+      213: 2965552716274330100
+    second: elemental_natureza_morte_1
+  - first:
+      213: -3674370278553622731
+    second: elemental_natureza_morte_2
+  - first:
+      213: 1458543538863092680
+    second: elemental_natureza_morte_3
+  - first:
+      213: -4028002721936906584
+    second: elemental_natureza_morte_4
+  - first:
+      213: -1236385937414735960
+    second: elemental_natureza_morte_5
+  - first:
+      213: -941564149141049088
+    second: elemental_natureza_morte_6
+  - first:
+      213: -7552290758512918277
+    second: elemental_natureza_morte_7
+  - first:
+      213: -8442861458645729779
+    second: elemental_natureza_morte_8
+  - first:
+      213: -2239245676544276160
+    second: elemental_natureza_morte_9
+  - first:
+      213: -6022459867018282615
+    second: elemental_natureza_morte_10
+  - first:
+      213: -5445877248164485967
+    second: elemental_natureza_morte_11
+  - first:
+      213: -6851626205536427495
+    second: elemental_natureza_morte_12
+  - first:
+      213: -946740867381506861
+    second: elemental_natureza_morte_13
+  - first:
+      213: -1315512487357371905
+    second: elemental_natureza_morte_14
+  - first:
+      213: 7060562764818753843
+    second: elemental_natureza_morte_15
+  - first:
+      213: 333876839328675746
+    second: elemental_natureza_morte_16
+  - first:
+      213: -1728496138225910404
+    second: elemental_natureza_morte_17
+  - first:
+      213: 2166480209839048813
+    second: elemental_natureza_morte_18
+  - first:
+      213: -3104277567442758738
+    second: elemental_natureza_morte_19
+  - first:
+      213: 6768746569137959069
+    second: elemental_natureza_morte_20
+  - first:
+      213: -8717630295989179886
+    second: elemental_natureza_morte_21
+  - first:
+      213: -5276195252038086643
+    second: elemental_natureza_morte_22
+  - first:
+      213: -1973767197282570530
+    second: elemental_natureza_morte_23
+  - first:
+      213: -3189086944821423035
+    second: elemental_natureza_morte_24
+  - first:
+      213: 8435092266542334344
+    second: elemental_natureza_morte_25
+  - first:
+      213: -4246479869568401449
+    second: elemental_natureza_morte_26
+  - first:
+      213: 7143287930571892135
+    second: elemental_natureza_morte_27
+  - first:
+      213: -3010408309445542999
+    second: elemental_natureza_morte_28
+  - first:
+      213: -7268770076427293936
+    second: elemental_natureza_morte_29
+  - first:
+      213: -7033072714630587145
+    second: elemental_natureza_morte_30
+  - first:
+      213: 1560931199820087913
+    second: elemental_natureza_morte_31
+  - first:
+      213: -3694890164952859515
+    second: elemental_natureza_morte_32
+  - first:
+      213: 9134190809162473277
+    second: elemental_natureza_morte_33
+  - first:
+      213: -3787558265569512810
+    second: elemental_natureza_morte_34
+  - first:
+      213: 6422949945791918681
+    second: elemental_natureza_morte_35
+  - first:
+      213: 684591663453529590
+    second: elemental_natureza_morte_36
+  - first:
+      213: 7997916124121470227
+    second: elemental_natureza_morte_37
+  - first:
+      213: 2566675242419643356
+    second: elemental_natureza_morte_38
+  - first:
+      213: -6234613211295294850
+    second: elemental_natureza_morte_39
+  - first:
+      213: -1541584043189798337
+    second: elemental_natureza_morte_40
+  - first:
+      213: 4060849639254241400
+    second: elemental_natureza_morte_41
+  - first:
+      213: -3158577220273918576
+    second: elemental_natureza_morte_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elemental_natureza_morte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079542f5cd47a2430800000000000000
+      internalID: 3758945328831945072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e938bb72c72920800000000000000
+      internalID: 2965552716274330100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ee8503b3020dc0800000000000000
+      internalID: -3674370278553622731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c33063fe99cd3410800000000000000
+      internalID: 1458543538863092680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e4ac9dd8a918c0800000000000000
+      internalID: -4028002721936906584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73b136a8977dee0800000000000000
+      internalID: -1236385937414735960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001743d1564eee2f0800000000000000
+      internalID: -941564149141049088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf04f52a19fd03790800000000000000
+      internalID: -7552290758512918277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb59d4c3ee4da80800000000000000
+      internalID: -8442861458645729779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049cfb4dbe99ce0e0800000000000000
+      internalID: -2239245676544276160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9893458c8aceb6ca0800000000000000
+      internalID: -6022459867018282615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b426cc0f7b5c64b0800000000000000
+      internalID: -5445877248164485967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126e3d74422ae0a0800000000000000
+      internalID: -6851626205536427495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc416972308cd2f0800000000000000
+      internalID: -946740867381506861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff92975dc5c5ebde0800000000000000
+      internalID: -1315512487357371905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392f571d682cf160800000000000000
+      internalID: 7060562764818753843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77ae6673b22a400800000000000000
+      internalID: 333876839328675746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df8659be52308e0800000000000000
+      internalID: -1728496138225910404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ce58b542e01e10800000000000000
+      internalID: 2166480209839048813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35c54eff36be4d0800000000000000
+      internalID: -3104277567442758738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90bc1c642b6fed50800000000000000
+      internalID: 6768746569137959069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aa16c0f61c40780800000000000000
+      internalID: -8717630295989179886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00daac6f5037c6b0800000000000000
+      internalID: -5276195252038086643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede67a80135cb94e0800000000000000
+      internalID: -1973767197282570530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445518f1561eb3d0800000000000000
+      internalID: -3189086944821423035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88186e2b9b77f0570800000000000000
+      internalID: 8435092266542334344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df3784be097115c0800000000000000
+      internalID: -4246479869568401449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a21ea68e022360800000000000000
+      internalID: 7143287930571892135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab3d96a791e836d0800000000000000
+      internalID: -3010408309445542999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bef888024202b90800000000000000
+      internalID: -7268770076427293936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc93fcf0a1856e90800000000000000
+      internalID: -7033072714630587145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c914f7aa89a510800000000000000
+      internalID: 1560931199820087913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c76e9a8fc19bcc0800000000000000
+      internalID: -3694890164952859515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f54ca552a23ce70800000000000000
+      internalID: 9134190809162473277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69272a623d3ef6bc0800000000000000
+      internalID: -3787558265569512810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ba0902f6e22950800000000000000
+      internalID: 6422949945791918681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56754ad78208900800000000000000
+      internalID: 684591663453529590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31511a1175e4efe60800000000000000
+      internalID: 7997916124121470227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3663eb889ae9320800000000000000
+      internalID: 2566675242419643356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a59c411543a79a0800000000000000
+      internalID: -6234613211295294850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af24afa713b9ae0800000000000000
+      internalID: -1541584043189798337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b50a4b390b5830800000000000000
+      internalID: 4060849639254241400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_natureza_morte_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09daee5c0ca7a24d0800000000000000
+      internalID: -3158577220273918576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

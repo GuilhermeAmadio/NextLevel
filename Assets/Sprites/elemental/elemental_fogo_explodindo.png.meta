@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: c30693928ced1854bb75859fcadb0ef8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -651734928954012295
+    second: elemental_fogo_explodindo_0
+  - first:
+      213: 5049966195438303369
+    second: elemental_fogo_explodindo_1
+  - first:
+      213: -4865818147949019409
+    second: elemental_fogo_explodindo_2
+  - first:
+      213: 1075473928979934966
+    second: elemental_fogo_explodindo_3
+  - first:
+      213: -5661965709230557325
+    second: elemental_fogo_explodindo_4
+  - first:
+      213: -7939574611080537735
+    second: elemental_fogo_explodindo_5
+  - first:
+      213: -6701124952433524812
+    second: elemental_fogo_explodindo_6
+  - first:
+      213: 6542757136723718316
+    second: elemental_fogo_explodindo_7
+  - first:
+      213: -4646020809079383312
+    second: elemental_fogo_explodindo_8
+  - first:
+      213: -9202071599715166622
+    second: elemental_fogo_explodindo_9
+  - first:
+      213: -986487053761379952
+    second: elemental_fogo_explodindo_10
+  - first:
+      213: 1709516755794046854
+    second: elemental_fogo_explodindo_11
+  - first:
+      213: -3824500967472556494
+    second: elemental_fogo_explodindo_12
+  - first:
+      213: 7980259627941729335
+    second: elemental_fogo_explodindo_13
+  - first:
+      213: -4049111879339149878
+    second: elemental_fogo_explodindo_14
+  - first:
+      213: 1555946733809223624
+    second: elemental_fogo_explodindo_15
+  - first:
+      213: -3121960821087573736
+    second: elemental_fogo_explodindo_16
+  - first:
+      213: -6515556580941678841
+    second: elemental_fogo_explodindo_17
+  - first:
+      213: 3081813311031507467
+    second: elemental_fogo_explodindo_18
+  - first:
+      213: -4328665553959133466
+    second: elemental_fogo_explodindo_19
+  - first:
+      213: 2217977641697297948
+    second: elemental_fogo_explodindo_20
+  - first:
+      213: 4209015925562033565
+    second: elemental_fogo_explodindo_21
+  - first:
+      213: -5620874397615259910
+    second: elemental_fogo_explodindo_22
+  - first:
+      213: -1455111676580556413
+    second: elemental_fogo_explodindo_23
+  - first:
+      213: -976017685711791091
+    second: elemental_fogo_explodindo_24
+  - first:
+      213: 1796763860782852271
+    second: elemental_fogo_explodindo_25
+  - first:
+      213: 7802522801712240853
+    second: elemental_fogo_explodindo_26
+  - first:
+      213: -8214387703080986069
+    second: elemental_fogo_explodindo_27
+  - first:
+      213: -330940857670178237
+    second: elemental_fogo_explodindo_28
+  - first:
+      213: -5481023610742241650
+    second: elemental_fogo_explodindo_29
+  - first:
+      213: -1356019745921612142
+    second: elemental_fogo_explodindo_30
+  - first:
+      213: 9186923483143277120
+    second: elemental_fogo_explodindo_31
+  - first:
+      213: -7371657918011106535
+    second: elemental_fogo_explodindo_32
+  - first:
+      213: -6432084012848248746
+    second: elemental_fogo_explodindo_33
+  - first:
+      213: 9037368705586230831
+    second: elemental_fogo_explodindo_34
+  - first:
+      213: -7705987727613614569
+    second: elemental_fogo_explodindo_35
+  - first:
+      213: -3861472688826949038
+    second: elemental_fogo_explodindo_36
+  - first:
+      213: 3226384039386470211
+    second: elemental_fogo_explodindo_37
+  - first:
+      213: 4004543197625593717
+    second: elemental_fogo_explodindo_38
+  - first:
+      213: -7347843453928868715
+    second: elemental_fogo_explodindo_39
+  - first:
+      213: 4556870964119233963
+    second: elemental_fogo_explodindo_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4bfff88294f6f0800000000000000
+      internalID: -651734928954012295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b4d6bf75151640800000000000000
+      internalID: 5049966195438303369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee79d5bc24297cb0800000000000000
+      internalID: -4865818147949019409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feea0e17d9dcee00800000000000000
+      internalID: 1075473928979934966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bed29f28ac61b0800000000000000
+      internalID: -5661965709230557325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97995d6f4f6f0d190800000000000000
+      internalID: -7939574611080537735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf71be1c52d003a0800000000000000
+      internalID: -6701124952433524812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b11a63fa8cca50800000000000000
+      internalID: 6542757136723718316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa10c790b4068fb0800000000000000
+      internalID: -4646020809079383312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266544d72acab4080800000000000000
+      internalID: -9202071599715166622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910801504b4f42f0800000000000000
+      internalID: -986487053761379952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68faea69e6c69b710800000000000000
+      internalID: 1709516755794046854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23619a612a4aceac0800000000000000
+      internalID: -3824500967472556494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349bd2b9d39fbe60800000000000000
+      internalID: 7980259627941729335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5fc28e23aaec7c0800000000000000
+      internalID: -4049111879339149878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c0268f45d79510800000000000000
+      internalID: 1555946733809223624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81963609c219ca4d0800000000000000
+      internalID: -3121960821087573736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707330f7fc71495a0800000000000000
+      internalID: -6515556580941678841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7a14d0ecc4ca20800000000000000
+      internalID: 3081813311031507467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eedbc8ec9d7de3c0800000000000000
+      internalID: -4328665553959133466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16402de9e6d7ce10800000000000000
+      internalID: 2217977641697297948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9546191fad696a30800000000000000
+      internalID: 4209015925562033565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afefd0b1484aef1b0800000000000000
+      internalID: -5620874397615259910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38194e0c3a76ecbe0800000000000000
+      internalID: -1455111676580556413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c56a4061d7472f0800000000000000
+      internalID: -976017685711791091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a83336336fe810800000000000000
+      internalID: 1796763860782852271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d891fb0621284c60800000000000000
+      internalID: 7802522801712240853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a558ed7e1a00e80800000000000000
+      internalID: -8214387703080986069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae7e81b03486bf0800000000000000
+      internalID: -330940857670178237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860e24d01e7fe3b0800000000000000
+      internalID: -5481023610742241650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2964defb9337e2de0800000000000000
+      internalID: -1356019745921612142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0377cb328e7f70800000000000000
+      internalID: 9186923483143277120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b90472e2c92b990800000000000000
+      internalID: -7371657918011106535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65806b04ba5acb6a0800000000000000
+      internalID: -6432084012848248746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f2b8a4fe2b6d70800000000000000
+      internalID: 9037368705586230831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71622146df4de0590800000000000000
+      internalID: -7705987727613614569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e8986c0b496ac0800000000000000
+      internalID: -3861472688826949038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347de90903b66cc20800000000000000
+      internalID: 3226384039386470211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2e2e32def29730800000000000000
+      internalID: 4004543197625593717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f3672f47370a90800000000000000
+      internalID: -7347843453928868715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_fogo_explodindo_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56e9f9ff14d3f30800000000000000
+      internalID: 4556870964119233963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 247b16b62e7ddba409ba35577f36a50b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5855598263015217937
+    second: lava_ondulada_0
+  - first:
+      213: 405885849307591733
+    second: lava_ondulada_1
+  - first:
+      213: 9212121214991223860
+    second: lava_ondulada_2
+  - first:
+      213: -7029535538285240299
+    second: lava_ondulada_3
+  - first:
+      213: -4940824273399259598
+    second: lava_ondulada_4
+  - first:
+      213: 2607304002688471425
+    second: lava_ondulada_5
+  - first:
+      213: -4909168701119446829
+    second: lava_ondulada_6
+  - first:
+      213: 4778151033860171423
+    second: lava_ondulada_7
+  - first:
+      213: -3446395596959820203
+    second: lava_ondulada_8
+  - first:
+      213: -1683219057726538141
+    second: lava_ondulada_9
+  - first:
+      213: 6026434735540108566
+    second: lava_ondulada_10
+  - first:
+      213: 5811800267208734612
+    second: lava_ondulada_11
+  - first:
+      213: -1702912691577284866
+    second: lava_ondulada_12
+  - first:
+      213: 4912366178493496632
+    second: lava_ondulada_13
+  - first:
+      213: -5840235614979606936
+    second: lava_ondulada_14
+  - first:
+      213: 6086820404826703813
+    second: lava_ondulada_15
+  - first:
+      213: 5684842729340427291
+    second: lava_ondulada_16
+  - first:
+      213: -1366278302782438795
+    second: lava_ondulada_17
+  - first:
+      213: -2353412591238567978
+    second: lava_ondulada_18
+  - first:
+      213: 644858365294777220
+    second: lava_ondulada_19
+  - first:
+      213: 5255262388371165139
+    second: lava_ondulada_20
+  - first:
+      213: -179873985301268647
+    second: lava_ondulada_21
+  - first:
+      213: -5787976028226923027
+    second: lava_ondulada_22
+  - first:
+      213: -2443443111957071549
+    second: lava_ondulada_23
+  - first:
+      213: -47153187979409128
+    second: lava_ondulada_24
+  - first:
+      213: -7867909743908355780
+    second: lava_ondulada_25
+  - first:
+      213: 4374377657627217879
+    second: lava_ondulada_26
+  - first:
+      213: 6257888604479820169
+    second: lava_ondulada_27
+  - first:
+      213: 7036457979741649256
+    second: lava_ondulada_28
+  - first:
+      213: 4946676814690035632
+    second: lava_ondulada_29
+  - first:
+      213: 6806289112939576054
+    second: lava_ondulada_30
+  - first:
+      213: 4723800936048516057
+    second: lava_ondulada_31
+  - first:
+      213: 7922604096993964450
+    second: lava_ondulada_32
+  - first:
+      213: -4518681302156889409
+    second: lava_ondulada_33
+  - first:
+      213: -8360821068991857238
+    second: lava_ondulada_34
+  - first:
+      213: -843185270378413719
+    second: lava_ondulada_35
+  - first:
+      213: -8301662669520268245
+    second: lava_ondulada_36
+  - first:
+      213: -2959408845417647956
+    second: lava_ondulada_37
+  - first:
+      213: -3600769563108369364
+    second: lava_ondulada_38
+  - first:
+      213: 4055028241117818512
+    second: lava_ondulada_39
+  - first:
+      213: -3686690651808825332
+    second: lava_ondulada_40
+  - first:
+      213: -4437696586233743340
+    second: lava_ondulada_41
+  - first:
+      213: -1352166718319268988
+    second: lava_ondulada_42
+  - first:
+      213: -5836264887970653020
+    second: lava_ondulada_43
+  - first:
+      213: 6315621246964817754
+    second: lava_ondulada_44
+  - first:
+      213: 5519829914989371494
+    second: lava_ondulada_45
+  - first:
+      213: -8463873490857369949
+    second: lava_ondulada_46
+  - first:
+      213: 7370764722771269477
+    second: lava_ondulada_47
+  - first:
+      213: 8142579221256315703
+    second: lava_ondulada_48
+  - first:
+      213: 8325983871419804676
+    second: lava_ondulada_49
+  - first:
+      213: 5063755283369431023
+    second: lava_ondulada_50
+  - first:
+      213: 7107146389317603019
+    second: lava_ondulada_51
+  - first:
+      213: -3953825334246870333
+    second: lava_ondulada_52
+  - first:
+      213: 5695494558773117996
+    second: lava_ondulada_53
+  - first:
+      213: 4162050777042306947
+    second: lava_ondulada_54
+  - first:
+      213: 6373252143278288851
+    second: lava_ondulada_55
+  - first:
+      213: -5101092145760531423
+    second: lava_ondulada_56
+  - first:
+      213: -4729322939885935006
+    second: lava_ondulada_57
+  - first:
+      213: 3087514882705165528
+    second: lava_ondulada_58
+  - first:
+      213: 2770067995380937594
+    second: lava_ondulada_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lava_ondulada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46591776cbcbea0800000000000000
+      internalID: -5855598263015217937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534365b870ff1a500800000000000000
+      internalID: 405885849307591733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4467ef6708df70800000000000000
+      internalID: 9212121214991223860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51026880ca2127e90800000000000000
+      internalID: -7029535538285240299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed86e308aae6bb0800000000000000
+      internalID: -4940824273399259598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18153b52d210f2420800000000000000
+      internalID: 2607304002688471425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04f4383112fdbb0800000000000000
+      internalID: -4909168701119446829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 490
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a660bc076f4240800000000000000
+      internalID: 4778151033860171423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565dbfd671fb20d0800000000000000
+      internalID: -3446395596959820203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eba016f2104a8e0800000000000000
+      internalID: -1683219057726538141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d71f9667232a350800000000000000
+      internalID: 6026434735540108566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973f700d89a7a050800000000000000
+      internalID: 5811800267208734612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6180fede90e58e0800000000000000
+      internalID: -1702912691577284866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d7fb3330b3c2440800000000000000
+      internalID: 4912366178493496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8663e8ca6a053fea0800000000000000
+      internalID: -5840235614979606936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 420
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78b49a8eab87450800000000000000
+      internalID: 6086820404826703813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5c4eb75e94ee40800000000000000
+      internalID: 5684842729340427291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572445a5f110a0de0800000000000000
+      internalID: -1366278302782438795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72b4997bff65fd0800000000000000
+      internalID: -2353412591238567978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48395d1444ff2f800800000000000000
+      internalID: 644858365294777220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df85547c417ee840800000000000000
+      internalID: 5255262388371165139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b8c93095f08df0800000000000000
+      internalID: -179873985301268647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5de05e77afcafa0800000000000000
+      internalID: -5787976028226923027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 350
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3497ce28f65271ed0800000000000000
+      internalID: -2443443111957071549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c574ec6a785ff0800000000000000
+      internalID: -47153187979409128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31028d16c19fc290800000000000000
+      internalID: -7867909743908355780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df864c9d49e4bc30800000000000000
+      internalID: 4374377657627217879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811cf1b78c78d650800000000000000
+      internalID: 6257888604479820169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b677704586a160800000000000000
+      internalID: 7036457979741649256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a246ba5026a440800000000000000
+      internalID: 4946676814690035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3f5f03ebc47e50800000000000000
+      internalID: 6806289112939576054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 280
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db54de6cef4e8140800000000000000
+      internalID: 4723800936048516057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13161537eb2fd60800000000000000
+      internalID: 7922604096993964450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb23db3fb4b6a41c0800000000000000
+      internalID: -4518681302156889409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7328098568fb80800000000000000
+      internalID: -8360821068991857238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c047c6776c44f0800000000000000
+      internalID: -843185270378413719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249f1249c19acc80800000000000000
+      internalID: -8301662669520268245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07bbfa5511ee6d0800000000000000
+      internalID: -2959408845417647956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c13e8f82f770ec0800000000000000
+      internalID: -3600769563108369364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 210
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e210a63ba564830800000000000000
+      internalID: 4055028241117818512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c008e26926e36dcc0800000000000000
+      internalID: -3686690651808825332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f29c77722a62c0800000000000000
+      internalID: -4437696586233743340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6975a8832c3de0800000000000000
+      internalID: -1352166718319268988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9c69910c610fa0800000000000000
+      internalID: -5836264887970653020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f5f31001895a750800000000000000
+      internalID: 6315621246964817754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602487ff006a9c40800000000000000
+      internalID: 5519829914989371494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed99157e74a8a80800000000000000
+      internalID: -8463873490857369949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 140
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56713cf96773a4660800000000000000
+      internalID: 7370764722771269477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a57619a0400170800000000000000
+      internalID: 8142579221256315703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ceb95d736db8370800000000000000
+      internalID: 8325983871419804676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0ebee992164640800000000000000
+      internalID: 5063755283369431023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec9fd5cf7a1a260800000000000000
+      internalID: 7107146389317603019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c276488ec03129c0800000000000000
+      internalID: -3953825334246870333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2487db00267a0f40800000000000000
+      internalID: 5695494558773117996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ceb6512392c930800000000000000
+      internalID: 4162050777042306947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 70
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6910be07527850800000000000000
+      internalID: 6373252143278288851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c886d58b74539b0800000000000000
+      internalID: -5101092145760531423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662efbd7d11e5eb0800000000000000
+      internalID: -4729322939885935006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8f5e6d6e09da20800000000000000
+      internalID: 3087514882705165528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava_ondulada_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5015392, y: 0.1529532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fb545a22417620800000000000000
+      internalID: 2770067995380937594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

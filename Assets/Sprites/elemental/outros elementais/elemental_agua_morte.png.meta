@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: c9f25bf88624c4640888d77220eaeaf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1550114928388790406
+    second: elemental_agua_morte_0
+  - first:
+      213: -3547657136711914143
+    second: elemental_agua_morte_1
+  - first:
+      213: 7654062603794196529
+    second: elemental_agua_morte_2
+  - first:
+      213: 1018367425515284238
+    second: elemental_agua_morte_3
+  - first:
+      213: 6839886320006919065
+    second: elemental_agua_morte_4
+  - first:
+      213: -1109323370507613506
+    second: elemental_agua_morte_5
+  - first:
+      213: -1429725777906568343
+    second: elemental_agua_morte_6
+  - first:
+      213: -589093242523743808
+    second: elemental_agua_morte_7
+  - first:
+      213: -8774996545898390953
+    second: elemental_agua_morte_8
+  - first:
+      213: -5259103964914744431
+    second: elemental_agua_morte_9
+  - first:
+      213: -2074762780723958421
+    second: elemental_agua_morte_10
+  - first:
+      213: -6541611399641640826
+    second: elemental_agua_morte_11
+  - first:
+      213: 858015002351393418
+    second: elemental_agua_morte_12
+  - first:
+      213: 5033717724910163080
+    second: elemental_agua_morte_13
+  - first:
+      213: -2905552383789760907
+    second: elemental_agua_morte_14
+  - first:
+      213: -1838206160811523643
+    second: elemental_agua_morte_15
+  - first:
+      213: -5107444677509728059
+    second: elemental_agua_morte_16
+  - first:
+      213: -3652052392664746302
+    second: elemental_agua_morte_17
+  - first:
+      213: 7553324529109922651
+    second: elemental_agua_morte_18
+  - first:
+      213: 6088051706648996684
+    second: elemental_agua_morte_19
+  - first:
+      213: 8236090320431202114
+    second: elemental_agua_morte_20
+  - first:
+      213: 1096692154708895879
+    second: elemental_agua_morte_21
+  - first:
+      213: 673495519963913158
+    second: elemental_agua_morte_22
+  - first:
+      213: 7724565179963570889
+    second: elemental_agua_morte_23
+  - first:
+      213: 9121292334122215819
+    second: elemental_agua_morte_24
+  - first:
+      213: 8339725467762092950
+    second: elemental_agua_morte_25
+  - first:
+      213: -9050683858721770415
+    second: elemental_agua_morte_26
+  - first:
+      213: -2202980943206907644
+    second: elemental_agua_morte_27
+  - first:
+      213: 7782603342814704924
+    second: elemental_agua_morte_28
+  - first:
+      213: -2358784860188935094
+    second: elemental_agua_morte_29
+  - first:
+      213: -7201686877448343391
+    second: elemental_agua_morte_30
+  - first:
+      213: 6985666589392832099
+    second: elemental_agua_morte_31
+  - first:
+      213: 3369249625629361208
+    second: elemental_agua_morte_32
+  - first:
+      213: -465499537883613152
+    second: elemental_agua_morte_33
+  - first:
+      213: 392483108337806229
+    second: elemental_agua_morte_34
+  - first:
+      213: 3317199153234751250
+    second: elemental_agua_morte_35
+  - first:
+      213: 1931489501398818458
+    second: elemental_agua_morte_36
+  - first:
+      213: 4594723734243957212
+    second: elemental_agua_morte_37
+  - first:
+      213: 8463400530580220168
+    second: elemental_agua_morte_38
+  - first:
+      213: 1987712041227726420
+    second: elemental_agua_morte_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elemental_agua_morte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772b5c7fa2ec7ae0800000000000000
+      internalID: -1550114928388790406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d286561a034cec0800000000000000
+      internalID: -3547657136711914143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13821cb9261b83a60800000000000000
+      internalID: 7654062603794196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07eaa827c7f12e00800000000000000
+      internalID: 1018367425515284238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f0186e582cee50800000000000000
+      internalID: 6839886320006919065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebacadf9544ea90f0800000000000000
+      internalID: -1109323370507613506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 540
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f8a1eaf7982ce0800000000000000
+      internalID: -1429725777906568343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90acb21de13d7f0800000000000000
+      internalID: -589093242523743808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a52782223f83680800000000000000
+      internalID: -8774996545898390953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193886ecec8e307b0800000000000000
+      internalID: -5259103964914744431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2fb55e36f433e0800000000000000
+      internalID: -2074762780723958421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d6b947178735a0800000000000000
+      internalID: -6541611399641640826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5c13491848eb00800000000000000
+      internalID: 858015002351393418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8849bdcd99b5bd540800000000000000
+      internalID: 5033717724910163080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57efbef40876da7d0800000000000000
+      internalID: -2905552383789760907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c105e86c316d76e0800000000000000
+      internalID: -1838206160811523643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b21f4026be19b0800000000000000
+      internalID: -5107444677509728059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63a12c2bd415dc0800000000000000
+      internalID: -3652052392664746302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5377d6d3acc2d860800000000000000
+      internalID: 7553324529109922651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b260575ca1d7450800000000000000
+      internalID: 6088051706648996684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb55f72887c4270800000000000000
+      internalID: 8236090320431202114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a16544bb383f00800000000000000
+      internalID: 1096692154708895879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb14496b9cb85900800000000000000
+      internalID: 673495519963913158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca741cca1b233b60800000000000000
+      internalID: 7724565179963570889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8929db1d07559e70800000000000000
+      internalID: 9121292334122215819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bec3e8028acb370800000000000000
+      internalID: 8339725467762092950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154f68aabf2856280800000000000000
+      internalID: -9050683858721770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401823901807d61e0800000000000000
+      internalID: -2202980943206907644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15fc3c918c510c60800000000000000
+      internalID: 7782603342814704924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7ed2caa9e34fd0800000000000000
+      internalID: -2358784860188935094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0791ee0f77e0c90800000000000000
+      internalID: -7201686877448343391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366031c50c212f060800000000000000
+      internalID: 6985666589392832099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8348147feaaf1ce20800000000000000
+      internalID: 3369249625629361208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b659f2a63a89f0800000000000000
+      internalID: -465499537883613152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be0dcbe41627500800000000000000
+      internalID: 392483108337806229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fa8c9fd0f090e20800000000000000
+      internalID: 3317199153234751250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed542d7770eca10800000000000000
+      internalID: 1931489501398818458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9daa474ecb3cf30800000000000000
+      internalID: 4594723734243957212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809261901f9047570800000000000000
+      internalID: 8463400530580220168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_agua_morte_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2525f195c59b10800000000000000
+      internalID: 1987712041227726420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
